@@ -1,0 +1,11 @@
+
+[From]
+Smtp = "smtp.gmail.com:587"
+Email = "send.alert.from@gmail.com"
+Auth = "auth-token"
+
+[[Patrons]]
+Name = "User Name"
+Card = "card-number"
+Pin = "code"
+Email = "send.alert.to@example.com"
